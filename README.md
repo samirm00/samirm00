@@ -8,3 +8,5 @@ Hi, I'm **Samir**. I love :
 - **Learning languages** :relaxed:
 - **Jogging** :+1:
 - **Listening to Celtic Music** :relaxed:
+
+![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirm00&show_icons=true&theme=dracula&title_color=#153fe8,text_color=#201c36)
