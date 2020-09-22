@@ -5,6 +5,6 @@ Hi, I'm **Samir**. I love :
 - **Geology** :smiley:
 - **Coding** :alien:
 - **Reading** :relaxed:
-- **Learning** languages :relaxed:
+- **Learning languages** :relaxed:
 - **Jogging** :+1:
-- **Listening** to Celtic Music :relaxed:
+- **Listening to Celtic Music** :relaxed:
