@@ -13,7 +13,7 @@ Hi, I'm **Samir**. I love :
 
 <img src="https://www.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="HTML" width="40"/>
 <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/css-icon.png" alt="CSS" width="40"/>
-<img src="https://icon-library.net/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="JS" width="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JS" width="40"/>
 <img src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40"/>
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="MySQL" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" width="40"/>
