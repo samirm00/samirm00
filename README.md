@@ -8,8 +8,13 @@ Hi, I'm **Samir**. I love :
 - **Learning languages** :relaxed:
 - **Jogging** :+1:
 - **Listening to Celtic Music** :relaxed:
+  
+[**Website**](https://samirm00.github.io/)
+[**LinkedIn**](https://www.linkedin.com/in/samir-m-592b69195/)
 
 ![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirm00&show_icons=true&theme=dracula&title_color=#153fe8,text_color=#201c36)
+
+
 
 <img align="left" src="https://www.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="HTML" width="40"/>
 <img align="left"src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/css-icon.png" alt="CSS" width="40"/>
