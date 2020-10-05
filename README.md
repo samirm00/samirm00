@@ -9,9 +9,11 @@ Hi, I'm **Samir**. I love :
 - **Jogging** :+1:
 - **Listening to Celtic Music** :musical_note:
 
-  [**My Web Page**](https://samirm00.github.io/) :globe_with_meridians:
+- [**My Web Page**](https://samirm00.github.io/) :globe_with_meridians:
 
 ![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirm00&show_icons=true&theme=dracula&title_color=#153fe8,text_color=#201c36)
+
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samirm00&repo=PinkPanther)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img align="left" src="https://www.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="HTML" width="40"/>
 <img align="left"src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/css-icon.png" alt="CSS" width="40"/>
