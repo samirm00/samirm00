@@ -1,4 +1,4 @@
-![Smiley Face](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNH48zGRsgy7ft25XA03Rb3a4AjTJjq9PRHQ&usqp=CAU)
+![Smiley Face](.images/../images/smily-face.png)
 
 Hi, I'm **Samir**. I love :
 
@@ -15,9 +15,12 @@ Hi, I'm **Samir**. I love :
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samirm00&repo=PinkPanther)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" src="https://www.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="HTML" width="40"/>
-<img align="left"src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/css-icon.png" alt="CSS" width="40"/>
-<img align="left"src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JS" width="40"/>
-<img align="left"src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40"/>
-<img align="left"src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="MySQL" width="40"/>
-<img align="left"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" width="40"/>
+<img align="left" src=".images/../images/html-logo.png" alt="HTML" width="40"/>
+<img align="left"src=".images/../images/css-logo.png" alt="CSS" width="40"/>
+<img align="left"src=".images/../images/javascript-logo.png" alt="JS" width="40"/>
+<img align="left"src=".images/../images/php-logo.png" alt="Php" width="40"/>
+<img align="left"src=".images/../images/python-logo.png" alt="Python" width="40"/>
+<img align="left"src=".images/../images/sql-logo.png" alt="SQL" width="40"/>
+<img align="left"src=".images/../images/matlab-logo.png" alt="MATLAB" width="40"/>
+<img align="left"src=".images/../images/git-logo.png" alt="Git" width="40"/>
+<img align="left"src=".images/../images/github-logo.png" alt="GitHub" width="40"/>
