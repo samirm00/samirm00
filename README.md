@@ -7,7 +7,7 @@ Hi, I'm **Samir**. I love :
 - **Reading** :blue_book:
 - **Learning languages** :green_book:
 - **Jogging** :+1:
-- [**Listening to Celtic Music**](https://www.youtube.com/playlist?list=PLHOW3tgE9oNbX7WPgtdO8pmSrbvnVjq2u) :musical_note:
+- [**Listening to Music**](https://www.youtube.com/playlist?list=PLHOW3tgE9oNbX7WPgtdO8pmSrbvnVjq2u) :musical_note:
 
 - [**My Web Page**](https://samirm00.github.io/) :globe_with_meridians:
 
