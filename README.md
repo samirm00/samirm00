@@ -1,4 +1,4 @@
-![Smiley Face](.images/../images/smily-face.png)
+<img src="./images/coding.png" alt="coding "/>
 
 Hi, I'm **Samir**. I love :
 
@@ -12,8 +12,6 @@ Hi, I'm **Samir**. I love :
 - [**My Web Page**](https://samirm00.github.io/) :globe_with_meridians:
 
 ![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirm00&show_icons=true&theme=dracula&title_color=#153fe8,text_color=#201c36)
-
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samirm00&repo=PinkPanther)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img align="left" src=".images/../images/html-logo.png" alt="HTML" width="40"/>
 <img align="left"src=".images/../images/css-logo.png" alt="CSS" width="40"/>
