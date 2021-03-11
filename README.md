@@ -1,6 +1,7 @@
 <img align="center" src="img/coding.png" alt="Mongo" width="200"/>
 <br>
-Hey, I'm **Samir**. I love :
+
+Hey, I'm **Samir** I love :
 
 - **Geology** :smiley:
 - **Coding** :computer:
