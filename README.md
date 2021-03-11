@@ -1,4 +1,6 @@
-<img align="left" src="img/coding.png" alt="Mongo" width="200"/><br><br>
+<img align="center" src="img/coding.png" alt="Mongo" width="200"/>
+<br><br>
+
 
 Hi, I'm **Samir**. I love :
 
