@@ -1,6 +1,5 @@
 <img align="center" src="img/coding.png" alt="Mongo" width="200"/>
 <br>
-
 Hey, I'm **Samir** I love :
 
 - **Geology** :smiley:
@@ -22,7 +21,9 @@ Hey, I'm **Samir** I love :
 <img align="left" src="img/sql-logo.png" alt="SQL" width="40"/>
 <img align="left" src="img/matlab-logo.png" alt="MATLAB" width="40"/>
 <img align="left" src="img/git-logo.png" alt="Git" width="40"/>
+<br>
 <img align="left" src="img/github-logo.png" alt="GitHub" width="40"/>
 <img align="left" src="img/react.png" alt="React" width="40"/>
 <img align="left" src="img/node.png" alt="Node" width="40"/>
 <img align="left" src="img/mongo.png" alt="Mongo" width="40"/>
+<img align="left" src="img/sass.png" alt="Sass" width="40"/>
