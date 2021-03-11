@@ -1,4 +1,4 @@
-<img src="./images/coding.png" alt="coding "/>
+
 
 Hi, I'm **Samir**. I love :
 
