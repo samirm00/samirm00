@@ -3,7 +3,7 @@
 Hey, I'm **Samir** I love :
 
 - **Geology** :smiley:
-- **Coding** :computer:
+- **Programming** :computer:
 - **Reading** :blue_book:
 - **Learning languages** :green_book:
 - **Jogging** :+1:
